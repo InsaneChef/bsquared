@@ -9,8 +9,4 @@ A template for a catering service website.
 - JavaScript
   > Linting with [ESLint](https://eslint.org) and transpiling with [Babel](http://babeljs.io).
 
-## Live Template
-
-The live template can be viewed [here](https://clintonpi.github.io/catering-services).
-
-Credit goes to Clintonpi for orginal source code. Modified by me for my business.
+Original source from https://www.github.com/clintonpi/catering-services
